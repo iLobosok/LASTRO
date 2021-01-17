@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1092849024433",
+    "firebase_url": "https://niowo-292910.firebaseio.com",
+    "project_id": "niowo-292910",
+    "storage_bucket": "niowo-292910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092849024433:android:e8cca845d806eebf31d190",
+        "android_client_info": {
+          "package_name": "com.project.lastro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092849024433-9guo66sa86vm8rmeqtfqv0vkdbov80ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAopcq6S50ZFdBTIlE-EuIumaWP1huHmxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092849024433-9guo66sa86vm8rmeqtfqv0vkdbov80ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
